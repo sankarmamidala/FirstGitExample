@@ -9,6 +9,6 @@ public class CollectionEx {
 		 
 		System.out.println("collection ex");
 		 
-		 
+		 System.out.println("next commit");
 }
 }
